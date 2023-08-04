@@ -10,7 +10,7 @@ Welcome to the Tic-Tac-Toe Android application repository! This app offers a cla
 
 ## Screenshots
 
-![Tic-Tac-Toe App Screenshots](screenshots.png)
+![Tic-Tac-Toe App Screenshots](https://github.com/nitish-niraj/tic-tac-toe/blob/main/tic-tac-toe.gif)
 
 ## Installation
 
